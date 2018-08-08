@@ -8,7 +8,7 @@
 
 **Links:** 
 1. [Curso JavaScript Ninja na Udemy, de Fernando Daciuk](https://www.udemy.com/curso-javascript-ninja/)
-2. [Tweet do dia](https://www.udemy.com/curso-javascript-ninja/)
+2. [Tweet do dia](https://twitter.com/glauciocorreia/status/1027006251375517696)
 
 _____________________________________________
 
