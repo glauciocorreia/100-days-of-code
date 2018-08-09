@@ -12,6 +12,18 @@
 
 _____________________________________________
 
+### Dia 2: 08 de Agosto, 2018
+
+**Progresso do dia:** Acordei cedo para estudar um pouco antes do estágio, mas a internet não ajudou e o plano foi pro espaço. Pela noite, não consegui avançar tanto e só finalizei os vídeos da primeira aula do Javascript Ninja e resolvi a lista de exercício da aula. Empaquei no pull request da lista respondida para o professor do curso. Verei isso amanhã.
+
+**Aprendizados:** Ainda nada novo. Vi o conceito de funções e suas principais características.
+
+**Links:** 
+1. [Lista de Exercícios Respondida - Aula #01 Javascript Ninja](https://github.com/glauciocorreia/curso-javascript-ninja/tree/beecf942ca877bfb4fecf5ced52361114e4d4968/challenge-01)
+2. [Tweet do dia](https://twitter.com/glauciocorreia/status/1027387728353259520)
+
+_____________________________________________
+
 
 ### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
 ##### (me delete ou transforme em comentário)
