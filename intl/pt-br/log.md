@@ -24,6 +24,18 @@ _____________________________________________
 
 _____________________________________________
 
+### Dia 3: 09 de Agosto, 2018
+
+**Progresso do dia:** Fiz alguns pomodoros (algo entre 4 e 5)* vendo o vídeo de revisão da lista da Aula #01 (só pra cumprir tabela, pois lista bem básica/principiante) do Javascript Ninja e vi todas as aulas da Aula #02, só não cheguei a fazer a lista de exercício por causa de algum probleminha na configuração do git no Linux Mint. Deixarei para cuidar disso amanhã. Além disso, vi uma das 5 videoaulas da primeira aula da disciplina de Introdução a Redes de Computadores.
+
+**Aprendizados:** Do Javascript Ninja, revi conceitos como Operadores Lógicos, Operadores Unários, Estrutura Léxica e Instruções Condicionais. Da parte de Redes, comecei a aprender sobre Modelo OSI e Protocolo TCP/IP. Se eu puder adicionar, na universidade comecei a ver PHP e seus conceitos iniciais, como declaração de variáveis e operadores.
+
+**Links:** 
+1. [Tweet do dia](https://twitter.com/glauciocorreia/status/1027751266984833024)
+2. [Vídeoaula sobre Redes](https://www.youtube.com/watch?v=u6lDMClLS8E)
+
+_____________________________________________
+
 
 ### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
 ##### (me delete ou transforme em comentário)
