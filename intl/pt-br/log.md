@@ -36,6 +36,17 @@ _____________________________________________
 
 _____________________________________________
 
+### Dia 4: 10 de Agosto, 2018
+
+**Progresso do dia:** Tá bem difícil gerenciar o tempo para o desafio, mas sigo firme e forte. Continuei o assunto de Redes de Computadores. Além disso, consegui configurar corretamente o github no Linux Mint. Não é só instalar o git e pronto. Achei curioso, mas agora está tudo certinho. Clonei o repositório do curso do Javascript Ninja e já fiz metade da lista de exercício da Aula #02. Não tive como usar pomodoros no processo. Amanhã compensarei o dia não tão focadoo.
+
+**Aprendizados:**  Continuando o assunto de ontem, foquei nas diferenças e semelhanças do modelo OSI com o protocolo TCP/IP (Redes de Computadores). No Javascript Ninja fiz (e ainda não concluí) a lista da Aula #2, focada em Funções.
+
+**Links:** 
+1. [Tweet do dia](https://twitter.com/glauciocorreia/status/1028113819606892546)
+
+_____________________________________________
+
 
 ### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
 ##### (me delete ou transforme em comentário)
